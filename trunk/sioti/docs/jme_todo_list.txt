@@ -1,0 +1,48 @@
+- calculate the height of an loaded md2 model, to be used to 
+  place the model over the ground
+  
+- run the animation with the third person controller
+
+- check colision with other objets in the screen
+- add triggers to the map, programmed with the Beanshell
+- change the chase camera to dont make the zoom ...
+- change the thirdperson movement to turn at the same place ?
+- make the jump movement
+- fall to the floor, dont GLUE the character too fast to the ground, 
+  will need to define number of frames per sec to aproximate the character 
+  to the ground when jumping
+  
+- how to add the sound track
+- how to play sound events
+- environment sound (birds, insects, et all )
+- trigger events with beanshell ?
+- need a generic resource manager to load some data to the memory 
+  for example some sound effects
+  
+- add skybox manager
+- allow change of the sky box during the day
+  
+- how to display the user name over the character head
+- how to select a character, draw the selection mark ot the user 
+  . draw and slipse ath the ground ?
+
+- create some objects that generates light, like :
+  . lamps, fireplaces
+        
+- define map in a flat file, with integers
+- check how to draw and save an scene  
+- add progress bar for the reosurce loading
+- add painel with informations from the Player object
+- add some NPC as spheres...
+- update the character position at the server
+- load the map definition as need, what about rivers to hide the 
+  map connection :)
+- character definition UI
+- inventory UI definition
+- chat UI
+- chat server will be an Standard IRC ?
+  . research for an IRC client implementation in Java
+  
+- show splash screen
+   
+   

@@ -1,0 +1,25 @@
+A = water
+B = ground
+G = mountains
+J = road
+K = big cities
+L = small cities
+N = navigation route
+P = main cities
+------------------------
+A = water
+B = ground
+	C->B
+	D->B
+	E->B
+	F->B
+G = mountains
+	H->B
+	I->J
+J = road
+K = big cities
+L = small cities
+	M->B
+N = navigation route
+	O->B
+P = main cities

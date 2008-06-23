@@ -1,0 +1,18 @@
+** restart of the project
+
+- removed old classes that use isometric maps 
+- removed samples and docs aboutt isometric maps
+- removed the physics library - who knows if we use it in the future ...
+
+so the zipped project shirink from 70mb to 50mb :)
+
+- still can remove some libraries from the pulpcore, have to find out
+- removed the terra library source code, that was to enable endless terrain,
+but I believe that this can be solved in the future, or come with a real simple solution
+still have to discuss about this...
+
+- I'm really afraid if this project has future or not ... :)
+- the cube is running over the floor, can control it using QWEASD, and Esc to exit
+
+next steps 
+- focus on resource management !!

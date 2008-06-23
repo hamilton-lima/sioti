@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="C:\workspace\globum.com.br\docs"
+   sodipodi:docname="backgrounds.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4335">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4337" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4339" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10990">
+      <stop
+         style="stop-color:#292420;stop-opacity:1;"
+         offset="0"
+         id="stop10992" />
+      <stop
+         style="stop-color:#c8beb7;stop-opacity:0;"
+         offset="1"
+         id="stop10994" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9042">
+      <stop
+         id="stop9044"
+         offset="0"
+         style="stop-color:#171412;stop-opacity:1;" />
+      <stop
+         id="stop9046"
+         offset="1"
+         style="stop-color:#483e37;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8025">
+      <stop
+         style="stop-color:#171412;stop-opacity:1;"
+         offset="0"
+         id="stop8027" />
+      <stop
+         style="stop-color:#483e37;stop-opacity:0;"
+         offset="1"
+         id="stop8029" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3134">
+      <stop
+         style="stop-color:#4155ff;stop-opacity:1;"
+         offset="0"
+         id="stop3136" />
+      <stop
+         style="stop-color:#d2f1ff;stop-opacity:0;"
+         offset="1"
+         id="stop3138" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8025"
+       id="linearGradient8047"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(7.4357428,-7.1915698)"
+       x1="55.094379"
+       y1="1032.0115"
+       x2="90.675102"
+       y2="1018.8525" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8025"
+       id="linearGradient8049"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3.1112448,6.6815223)"
+       x1="55.094379"
+       y1="1032.0115"
+       x2="90.675102"
+       y2="1018.8525" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8025"
+       id="linearGradient8051"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(7.9566265,9.7927711)"
+       x1="55.094379"
+       y1="1032.0115"
+       x2="90.675102"
+       y2="1018.8525" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9042"
+       id="linearGradient9040"
+       x1="125.46638"
+       y1="137.50783"
+       x2="128.42293"
+       y2="124.004"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10990"
+       id="linearGradient10996"
+       x1="139.02222"
+       y1="133.55545"
+       x2="140.6523"
+       y2="127.48978"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-43.725189,-22.119132)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10990"
+       id="linearGradient12943"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-17.067841,-38.045165)"
+       x1="139.02222"
+       y1="133.55545"
+       x2="140.6523"
+       y2="127.48978" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10990"
+       id="linearGradient12947"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-41.856211,-42.706231)"
+       x1="139.02222"
+       y1="133.55545"
+       x2="140.6523"
+       y2="127.48978" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8025"
+       id="linearGradient2271"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(7.4357428,-7.1915698)"
+       x1="55.094379"
+       y1="1032.0115"
+       x2="90.675102"
+       y2="1018.8525" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8025"
+       id="linearGradient2273"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3.1112448,6.6815223)"
+       x1="55.094379"
+       y1="1032.0115"
+       x2="90.675102"
+       y2="1018.8525" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8025"
+       id="linearGradient2275"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(7.9566265,9.7927711)"
+       x1="55.094379"
+       y1="1032.0115"
+       x2="90.675102"
+       y2="1018.8525" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10990"
+       id="linearGradient2308"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(127.77291,64.689517)"
+       x1="139.02222"
+       y1="133.55545"
+       x2="140.6523"
+       y2="127.48978" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10990"
+       id="linearGradient2310"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(154.43025,48.763484)"
+       x1="139.02222"
+       y1="133.55545"
+       x2="140.6523"
+       y2="127.48978" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10990"
+       id="linearGradient2312"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(129.64188,44.102418)"
+       x1="139.02222"
+       y1="133.55545"
+       x2="140.6523"
+       y2="127.48978" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4335"
+       id="linearGradient4345"
+       x1="264.00795"
+       y1="211.92344"
+       x2="316.27415"
+       y2="211.92344"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4335"
+       id="linearGradient4347"
+       gradientUnits="userSpaceOnUse"
+       x1="264.00795"
+       y1="211.92344"
+       x2="316.27415"
+       y2="211.92344" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0219963"
+     inkscape:cx="143.64863"
+     inkscape:cy="944.74862"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1024"
+     inkscape:window-height="678"
+     inkscape:window-x="0"
+     inkscape:window-y="56" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.45;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2160"
+       width="50"
+       height="50"
+       x="21.940172"
+       y="17.242649"
+       ry="3.1325302"
+       rx="3.1325302"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\water.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.4;fill:#deaa87;fill-opacity:1;fill-rule:evenodd;stroke:#704103;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4131"
+       width="50"
+       height="50"
+       x="82.006836"
+       y="17.054722"
+       ry="3.1325302"
+       rx="3.1325302"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\ground.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.4;fill:#d38d5f;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 101.29457,22.257228 C 106.01332,22.336098 106.85863,24.603208 104.66084,26.949588 C 100.49702,30.071208 96.284654,30.861968 95.684134,26.133528 C 95.072114,23.481338 97.826274,21.917178 101.29457,22.257228 z "
+       id="path4133"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\ground.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.4;fill:#d38d5f;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 120.15878,50.01675 C 126.43236,50.12659 127.5562,53.28387 124.63424,56.55156 C 119.09844,60.89888 113.49809,62.00013 112.6997,55.41507 C 111.88602,51.7215 115.54768,49.54318 120.15878,50.01675 z "
+       id="path7044"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\ground.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.4;fill:#d38d5f;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 98.665154,47.173577 C 103.3839,47.252447 104.22921,49.519557 102.03142,51.865937 C 97.867604,54.987557 93.655234,55.778317 93.054714,51.049877 C 92.442694,48.397687 95.196854,46.833527 98.665154,47.173577 z "
+       id="path7046"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\ground.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.4;fill:#d38d5f;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 113.29127,34.744582 C 118.01002,34.823452 118.85533,37.090562 116.65754,39.436942 C 112.49372,42.558562 108.28135,43.349322 107.68083,38.620882 C 107.06881,35.968692 109.82297,34.404532 113.29127,34.744582 z "
+       id="path7048"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\ground.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g8041"
+       transform="translate(-28.459831,-934.71951)"
+       style="opacity:0.7"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\mountain.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         rx="3.1325302"
+         ry="3.1325302"
+         y="1006.1445"
+         x="50.832127"
+         height="50"
+         width="50"
+         id="rect7050"
+         style="opacity:1;fill:#6c5353;fill-opacity:1;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path8033"
+         d="M 99.03896,1030.9916 C 92.21962,1023.711 94.697884,1009.6656 80.065462,1007.6317 C 66.438654,1012.8687 67.81912,1016.5496 63.846185,1030.4815"
+         style="fill:url(#linearGradient8047);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path8037"
+         d="M 86.757831,1035.0719 C 79.938495,1027.7913 82.416759,1013.7459 67.784337,1011.712 C 54.157529,1016.949 55.537995,1020.6299 51.56506,1034.5618"
+         style="fill:url(#linearGradient8049);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path7054"
+         d="M 99.55984,1047.9759 C 92.740504,1040.6953 95.218768,1026.6499 80.586346,1024.616 C 66.959538,1029.853 68.340004,1033.5339 64.367069,1047.4658"
+         style="fill:url(#linearGradient8051);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:0.45;fill:#c8beb7;fill-opacity:1;fill-rule:evenodd;stroke:#2d1700;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8053"
+       width="50"
+       height="50"
+       x="81.278992"
+       y="71.764206"
+       ry="3.1325302"
+       rx="3.1325302"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\road.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.45;fill:url(#linearGradient10996);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 99.795324,112.1433 C 97.016954,112.15321 92.994824,112.71038 91.482184,112.16337 C 90.136014,111.70072 90.055444,111.85526 89.532674,109.26433 C 89.787024,106.13525 92.094284,105.89308 93.967564,105.04063 C 93.967564,105.04063 99.036014,103.56233 99.880754,105.463 C 100.72549,107.36366 102.09206,111.73053 99.795324,112.1433 z "
+       id="path10019"
+       sodipodi:nodetypes="ccccsc"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\road.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.45;fill:url(#linearGradient12943);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 126.45267,96.217268 C 123.6743,96.227178 119.65217,96.784348 118.13953,96.237338 C 116.79336,95.774688 116.71279,95.929228 116.19002,93.338298 C 116.44437,90.209218 118.75163,89.967048 120.62491,89.114598 C 120.62491,89.114598 125.69336,87.636298 126.5381,89.536968 C 127.38284,91.437628 128.74941,95.804498 126.45267,96.217268 z "
+       id="path12941"
+       sodipodi:nodetypes="ccccsc"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\road.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.45;fill:url(#linearGradient12947);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 101.6643,91.556198 C 98.885934,91.566108 94.863804,92.123278 93.351164,91.576268 C 92.004994,91.113618 91.924424,91.268158 91.401654,88.677228 C 91.656004,85.548148 93.963264,85.305978 95.836544,84.453528 C 95.836544,84.453528 100.90499,82.975228 101.74973,84.875898 C 102.59447,86.776558 103.96104,91.143428 101.6643,91.556198 z "
+       id="path12945"
+       sodipodi:nodetypes="ccccsc"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\road.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.45;fill:#6554e2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path12949"
+       d="M 26.3531,51.618687 C 26.73479,50.329763 27.457926,49.221194 28.285093,48.17778 C 30.416719,45.94695 33.238982,44.315173 36.220403,43.521313 C 38.737988,43.087492 41.309838,43.094246 43.85761,43.029504 C 46.02835,43.036722 48.173023,43.012605 50.319053,42.669883 C 55.152394,41.425868 55.046556,40.910661 56.28949,40.039661 C 59.536438,37.573372 62.113263,34.412459 64.439389,31.096799 C 65.099295,30.148549 65.720499,29.174488 66.351613,28.207116 L 70.131353,26.560839 C 69.408975,27.553008 68.714683,28.564403 67.991988,29.556433 C 65.574795,32.870629 62.99334,36.101576 59.76237,38.668713 C 55.924979,41.438856 51.781857,44.097983 47.094813,45.090255 C 44.940293,45.424832 42.78633,45.458682 40.608114,45.399097 C 38.049447,45.423006 35.456307,45.440734 32.95465,46.039403 C 28.376436,47.506696 36.859539,43.307087 32.104234,46.551331 C 31.310641,47.487802 30.60547,48.484914 30.316389,49.696866 L 26.3531,51.618687 z "
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\water.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.45;fill:#6554e2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path12951"
+       d="M 24.258324,39.026675 C 24.692418,37.132319 25.819063,35.627094 27.131177,34.243042 C 30.070746,31.630692 33.651627,29.851275 37.550353,29.40689 C 39.663417,29.345773 41.746335,29.549234 43.835092,29.155631 C 48.834845,26.520519 41.255411,32.12391 44.891768,28.074318 C 46.152837,26.48307 47.230774,24.754809 48.265852,23.011003 L 52.009285,21.354446 C 50.924527,23.099243 49.806962,24.827773 48.612089,26.499248 C 46.565591,29.01564 43.664752,30.832177 40.52992,31.641207 C 38.463623,31.939613 36.404378,31.694287 34.326721,31.810386 C 33.065489,31.980181 29.704687,33.596431 30.615928,32.708075 C 34.567483,28.85576 32.30895,32.248999 30.852043,32.69645 C 29.601695,33.940337 28.484836,35.299792 28.173836,37.085895 L 24.258324,39.026675 z "
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\water.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.45;fill:#6554e2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path12953"
+       d="M 36.851479,61.36196 C 38.589609,61.450574 40.331384,61.455928 42.071433,61.468932 C 44.549508,61.505132 46.992031,61.926253 49.43873,62.270521 C 52.459953,62.857145 55.200825,61.879538 57.935306,60.697738 C 58.354571,60.818586 62.214873,58.102848 65.665023,55.17247 C 66.713465,54.263223 67.694578,53.284355 68.649578,52.279262 L 72.400729,50.720231 C 71.346934,51.773093 70.267742,52.798869 69.135965,53.768712 C 64.793215,57.420573 60.13093,60.640845 54.961496,63.048143 C 52.110994,64.262068 49.275637,65.212451 46.141354,64.596229 C 43.71279,64.251963 41.284138,63.828211 38.822952,63.829092 C 36.984689,63.842553 35.145138,63.851294 33.308529,63.936064 L 36.851479,61.36196 z "
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\water.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.41160003;fill:#c8beb7;fill-opacity:1;fill-rule:evenodd;stroke:#fffbf5;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13924"
+       width="50"
+       height="50"
+       x="145.89552"
+       y="19.640366"
+       ry="3.1325302"
+       rx="3.1325302"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.41160003;fill:#ffccaa;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.4127748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14903"
+       width="17.360273"
+       height="9.3093491"
+       x="148.02032"
+       y="35.112766"
+       rx="3.13253"
+       ry="3.13253"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.41160003;fill:#e9c6af;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.44128296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15880"
+       width="12.670703"
+       height="14.577502"
+       x="180.76796"
+       y="19.131104"
+       rx="3.1325302"
+       ry="3.1325302"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.41160003;fill:#e9ddaf;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.44484124;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15884"
+       width="12.879011"
+       height="14.573944"
+       x="166.57468"
+       y="29.7262"
+       rx="3.1325302"
+       ry="3.1325302"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.41160003;fill:#e9ddaf;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.46221033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15886"
+       width="13.920975"
+       height="14.556575"
+       x="148.23602"
+       y="19.124752"
+       rx="3.1325302"
+       ry="3.1325302"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.41160003;fill:#ffccaa;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.39787683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15892"
+       width="16.103973"
+       height="9.3242474"
+       x="163.26727"
+       y="19.00346"
+       rx="3.13253"
+       ry="3.13253"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.41160003;fill:#e9ddaf;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.46221033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15894"
+       width="13.920975"
+       height="14.556575"
+       x="180.46062"
+       y="34.819683"
+       rx="3.1325302"
+       ry="3.1325302"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.41160003;fill:#ffccaa;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.39787683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15898"
+       width="16.103973"
+       height="9.3242474"
+       x="159.24181"
+       y="45.910503"
+       rx="3.13253"
+       ry="3.13253"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.41160003;fill:#e9ddaf;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.46002454;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15900"
+       width="10.109564"
+       height="19.855421"
+       x="147.72617"
+       y="46.047504"
+       rx="3.1325302"
+       ry="3.1325302"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.41160003;fill:#e9c6af;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.50759798;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15902"
+       width="16.841717"
+       height="14.511188"
+       x="176.88159"
+       y="50.520489"
+       rx="3.1325302"
+       ry="3.1325302"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.41160003;fill:#ffccaa;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.39787683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15904"
+       width="16.103973"
+       height="9.3242474"
+       x="159.02994"
+       y="56.927555"
+       rx="3.13253"
+       ry="3.13253"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2314"
+       transform="translate(86.015906,-45.499589)"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\iso-road.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         transform="matrix(0.8982902,-0.4394026,0.8982902,0.4394026,0,0)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\ground.png"
+         rx="2.6696715"
+         ry="2.6696715"
+         y="255.81549"
+         x="-5.0814905"
+         height="39.496292"
+         width="39.496292"
+         id="rect2215"
+         style="opacity:0.4;fill:#deaa87;fill-opacity:1;fill-rule:evenodd;stroke:#704103;stroke-width:0.63194072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\ground.png"
+         sodipodi:nodetypes="cccc"
+         id="path2217"
+         d="M 246.62942,112.44098 C 250.02185,109.16009 252.22266,110.16545 252.32773,113.37866 C 251.59078,118.53025 249.17134,122.06799 245.4032,119.14911 C 243.09505,117.7065 243.93651,114.65298 246.62942,112.44098 z "
+         style="opacity:0.4;fill:#d38d5f;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\ground.png"
+         sodipodi:nodetypes="cccc"
+         id="path2219"
+         d="M 270.20071,109.33425 C 274.71447,104.97583 277.74168,106.41369 277.98615,110.79043 C 277.14577,117.77885 273.96442,122.5176 268.74354,118.4258 C 265.55643,116.38941 266.60531,112.25993 270.20071,109.33425 z "
+         style="opacity:0.4;fill:#d38d5f;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\ground.png"
+         sodipodi:nodetypes="cccc"
+         id="path2221"
+         d="M 258.43217,107.19074 C 261.8246,103.90985 264.0254,104.9152 264.13047,108.12842 C 263.39353,113.28 260.97408,116.81775 257.20594,113.89887 C 254.8978,112.45626 255.73926,109.40274 258.43217,107.19074 z "
+         style="opacity:0.4;fill:#d38d5f;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2225"
+       transform="matrix(0.7071068,-0.3488273,0.7071068,0.3488273,-450.09424,-180.51886)"
+       style="opacity:0.7"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\iso-mountain.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         rx="3.1325302"
+         ry="6.3499432"
+         y="1006.1445"
+         x="50.832127"
+         height="50"
+         width="50"
+         id="rect2227"
+         style="opacity:1;fill:#6c5353;fill-opacity:1;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path2229"
+         d="M 99.03896,1030.9916 C 92.21962,1023.711 94.697884,1009.6656 80.065462,1007.6317 C 66.438654,1012.8687 67.81912,1016.5496 63.846185,1030.4815"
+         style="fill:url(#linearGradient2271);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path2231"
+         d="M 86.757831,1035.0719 C 79.938495,1027.7913 82.416759,1013.7459 67.784337,1011.712 C 54.157529,1016.949 55.537995,1020.6299 51.56506,1034.5618"
+         style="fill:url(#linearGradient2273);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path2233"
+         d="M 99.55984,1047.9759 C 92.740504,1040.6953 95.218768,1026.6499 80.586346,1024.616 C 66.959538,1029.853 68.340004,1033.5339 64.367069,1047.4658"
+         style="fill:url(#linearGradient2275);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2283"
+       transform="matrix(0.7071068,-0.3488274,0.7071068,0.3488274,-20.912552,164.68691)"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\iso-water.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\water.png"
+         rx="3.1325302"
+         ry="6.3499408"
+         y="104.0513"
+         x="193.43826"
+         height="50"
+         width="50"
+         id="rect2213"
+         style="opacity:0.45;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\water.png"
+         d="M 197.85119,138.42733 C 198.23288,137.13841 198.95602,136.02984 199.78319,134.98643 C 201.91481,132.7556 204.73708,131.12382 207.7185,130.32996 C 210.23608,129.89614 212.80793,129.90289 215.3557,129.83815 C 217.52645,129.84537 219.67112,129.82125 221.81715,129.47853 C 226.65049,128.23452 226.54465,127.71931 227.78759,126.84831 C 231.03454,124.38202 233.61136,121.22111 235.93749,117.90545 C 236.59739,116.9572 237.2186,115.98314 237.84971,115.01576 L 241.62945,113.36949 C 240.90707,114.36166 240.21278,115.37305 239.49009,116.36508 C 237.07289,119.67928 234.49144,122.91022 231.26047,125.47736 C 227.42308,128.2475 223.27996,130.90663 218.59291,131.8989 C 216.43839,132.23348 214.28442,132.26733 212.10621,132.20775 C 209.54754,132.23165 206.9544,132.24938 204.45274,132.84805 C 199.87453,134.31534 208.35763,130.11574 203.60233,133.35998 C 202.80874,134.29645 202.10356,135.29356 201.81448,136.50551 L 197.85119,138.42733 z "
+         id="path2243"
+         style="opacity:0.45;fill:#6554e2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\water.png"
+         d="M 195.75642,125.83532 C 196.19051,123.94097 197.31716,122.43574 198.62927,121.05169 C 201.56884,118.43934 205.14972,116.65992 209.04845,116.21554 C 211.16151,116.15442 213.24443,116.35788 215.33319,115.96428 C 220.33294,113.32917 212.75351,118.93256 216.38986,114.88297 C 217.65094,113.29172 218.72887,111.56346 219.76395,109.81965 L 223.50738,108.16309 C 222.42263,109.90789 221.30506,111.63642 220.11019,113.3079 C 218.06369,115.82429 215.16285,117.64083 212.02801,118.44986 C 209.96172,118.74826 207.90247,118.50294 205.82482,118.61903 C 204.56358,118.78883 201.20278,120.40508 202.11402,119.51672 C 206.06558,115.66441 203.80704,119.05765 202.35014,119.5051 C 201.09979,120.74899 199.98293,122.10844 199.67193,123.89454 L 195.75642,125.83532 z "
+         id="path2245"
+         style="opacity:0.45;fill:#6554e2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\water.png"
+         d="M 208.34957,148.17061 C 210.0877,148.25922 211.82948,148.26457 213.56953,148.27758 C 216.0476,148.31378 218.49013,148.7349 220.93683,149.07917 C 223.95805,149.66579 226.69892,148.68818 229.4334,147.50638 C 229.85267,147.62723 233.71297,144.91149 237.16312,141.98112 C 238.21156,141.07187 239.19268,140.093 240.14768,139.08791 L 243.89883,137.52888 C 242.84503,138.58174 241.76584,139.60751 240.63406,140.57736 C 236.29131,144.22922 231.62903,147.44949 226.45959,149.85679 C 223.60909,151.07071 220.77374,152.0211 217.63945,151.40487 C 215.21088,151.06061 212.78223,150.63686 210.32105,150.63774 C 208.48278,150.6512 206.64323,150.65994 204.80662,150.74471 L 208.34957,148.17061 z "
+         id="path2247"
+         style="opacity:0.45;fill:#6554e2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2289"
+       transform="matrix(0.7071068,-0.3488274,0.7071068,0.3488274,-67.401261,253.18304)"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\iso-city.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+         rx="3.1325302"
+         ry="6.3499408"
+         y="106.44902"
+         x="317.39362"
+         height="50"
+         width="50"
+         id="rect2249"
+         style="opacity:0.41160003;fill:#c8beb7;fill-opacity:1;fill-rule:evenodd;stroke:#fffbf5;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+         ry="6.3499403"
+         rx="3.13253"
+         y="121.92142"
+         x="319.5184"
+         height="9.3093491"
+         width="17.360273"
+         id="rect2251"
+         style="opacity:0.41160003;fill:#ffccaa;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.4127748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+         ry="6.3499408"
+         rx="3.1325302"
+         y="105.93976"
+         x="352.26605"
+         height="14.577502"
+         width="12.670703"
+         id="rect2253"
+         style="opacity:0.41160003;fill:#e9c6af;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.44128296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+         ry="6.3499408"
+         rx="3.1325302"
+         y="116.53485"
+         x="338.07275"
+         height="14.573944"
+         width="12.879011"
+         id="rect2255"
+         style="opacity:0.41160003;fill:#e9ddaf;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.44484124;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+         ry="6.3499408"
+         rx="3.1325302"
+         y="105.9334"
+         x="319.7341"
+         height="14.556575"
+         width="13.920975"
+         id="rect2257"
+         style="opacity:0.41160003;fill:#e9ddaf;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.46221033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+         ry="6.3499403"
+         rx="3.13253"
+         y="105.81211"
+         x="334.76535"
+         height="9.3242474"
+         width="16.103973"
+         id="rect2259"
+         style="opacity:0.41160003;fill:#ffccaa;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.39787683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+         ry="6.3499408"
+         rx="3.1325302"
+         y="121.62833"
+         x="351.95871"
+         height="14.556575"
+         width="13.920975"
+         id="rect2261"
+         style="opacity:0.41160003;fill:#e9ddaf;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.46221033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+         ry="6.3499403"
+         rx="3.13253"
+         y="132.71915"
+         x="330.7399"
+         height="9.3242474"
+         width="16.103973"
+         id="rect2263"
+         style="opacity:0.41160003;fill:#ffccaa;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.39787683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+         ry="6.3499408"
+         rx="3.1325302"
+         y="132.85616"
+         x="319.22424"
+         height="19.855421"
+         width="10.109564"
+         id="rect2265"
+         style="opacity:0.41160003;fill:#e9ddaf;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.46002454;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+         ry="6.3499408"
+         rx="3.1325302"
+         y="137.32913"
+         x="348.37967"
+         height="14.511188"
+         width="16.841717"
+         id="rect2267"
+         style="opacity:0.41160003;fill:#e9c6af;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.50759798;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\city.png"
+         ry="6.3499403"
+         rx="3.13253"
+         y="143.73621"
+         x="330.52802"
+         height="9.3242474"
+         width="16.103973"
+         id="rect2269"
+         style="opacity:0.41160003;fill:#ffccaa;fill-opacity:1;fill-rule:evenodd;stroke:#363636;stroke-width:0.39787683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2302"
+       transform="matrix(0.7071068,-0.3488274,0.7071068,0.3488274,-34.455654,118.34174)"
+       inkscape:export-filename="C:\workspace\globum.com.br\docs\iso-ground.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="opacity:1">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\road.png"
+         rx="3.1325302"
+         ry="6.3499408"
+         y="158.57286"
+         x="252.77708"
+         height="50"
+         width="50"
+         id="rect2235"
+         style="opacity:1;fill:#c8beb7;fill-opacity:1;fill-rule:evenodd;stroke:#2d1700;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\road.png"
+         sodipodi:nodetypes="ccccsc"
+         id="path2237"
+         d="M 271.29342,198.95195 C 268.51505,198.96186 264.49292,199.51903 262.98028,198.97202 C 261.63411,198.50937 261.55354,198.66391 261.03077,196.07298 C 261.28512,192.9439 263.59238,192.70173 265.46566,191.84928 C 265.46566,191.84928 270.53411,190.37098 271.37885,192.27165 C 272.22359,194.17231 273.59016,198.53918 271.29342,198.95195 z "
+         style="opacity:0.45;fill:url(#linearGradient2308);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\road.png"
+         sodipodi:nodetypes="ccccsc"
+         id="path2239"
+         d="M 297.95077,183.02591 C 295.1724,183.03582 291.15027,183.59299 289.63763,183.04598 C 288.29146,182.58333 288.21089,182.73787 287.68812,180.14694 C 287.94247,177.01786 290.24973,176.77569 292.12301,175.92324 C 292.12301,175.92324 297.19146,174.44494 298.0362,176.34561 C 298.88094,178.24627 300.24751,182.61314 297.95077,183.02591 z "
+         style="opacity:0.45;fill:url(#linearGradient2310);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\workspace\globum.com.br\docs\road.png"
+         sodipodi:nodetypes="ccccsc"
+         id="path2241"
+         d="M 273.1624,178.36484 C 270.38403,178.37475 266.3619,178.93192 264.84926,178.38491 C 263.50309,177.92226 263.42252,178.0768 262.89975,175.48587 C 263.1541,172.35679 265.46136,172.11462 267.33464,171.26217 C 267.33464,171.26217 272.40309,169.78387 273.24783,171.68454 C 274.09257,173.5852 275.45914,177.95207 273.1624,178.36484 z "
+         style="opacity:0.45;fill:url(#linearGradient2312);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

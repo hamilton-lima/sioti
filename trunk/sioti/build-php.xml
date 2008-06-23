@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<project name="sioti.com copy to apache" default="copy" basedir=".">
+
+	<property file="build.properties" />
+
+	<property name="apache.folder" value="C:/xampplite/htdocs/sioti" />
+	<property name="php.folder" value="php" />
+
+	<!-- copy php files to the apache folder -->
+	<target name="copy">
+		<copy overwrite="yes" todir="${apache.folder}" verbose="yes">
+			<fileset dir="${php.folder}">
+			</fileset>
+		</copy>
+	</target>
+
+</project>
