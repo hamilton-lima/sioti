@@ -1,0 +1,39 @@
+- adicionar controle de versao as tabelas, com tabela separada de historico com a nomenclatura _h e para cada registro modificado adicionar na tabala _h com o timestamp operacao e username
+
+ok - profissao_create: nome, descricao, nivel_maximo / novo id
+ok - profissao_read : / lista de objetos profissao
+ok - profissao_delete: id / id removido
+ok - profissao_update: id, nome, descricao, nivel_maximo / novo id
+
+ok - profissao_add_icone: image data (base64 string) / id icone
+ok - profissao_remove_icone: image data / id icone
+
+
+ok - item_create : nome, nivel_requerido, atributos, nivel
+ok - item_update : id, nome, nivel_requerido, atributos, nivel
+ok - item_delete : id
+ok - item_read : / lista de items com magias associadas
+
+item_add_magia: id_item, id_magia / id associacao
+item_remove_magia : id_item, id_magia / id associacao
+
+magia_create: id_tipo_magia, quantidade, nivel_item_requerido, percentual_chance(float)
+magia_read : / lista de objetos de magia
+magia_update : id, id_tipo_magia, quantidade, nivel_item_requerido, percentual_chance(float)
+magia_delete: id / id removido
+
+treinamento_create : id_profissao, nivel_requerido, nivel_profissao_requerido
+treinamento_add_materia_prima : id, quantidade, id_item / id_materia_prima
+treinamento_remove_materia_prima : id_materia_prima
+
+treinamento_update : id, id_profissao, nivel_requerido, nivel_profissao_requerido
+treinamento_read : id_profissao / lista de treinamento de uma determinada profissao
+treinamento_remove: id
+
+item_add_icone: image data (base64 string) / id icone
+item_remove_icone: image data / id icone
+
+tipo_midia_read: / lista de objetos tipo midia
+midia_add: tipo midia, nome / id_midia
+midia_add_data: id_midia, order, data base 64 encoded
+midia_remove: id_midia

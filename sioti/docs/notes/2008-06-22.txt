@@ -1,0 +1,7 @@
+** move to google code 
+
+- cleared .svn files from the project folder 
+- zipped project come to 13mb
+
+this is the page : http://code.google.com/p/sioti/
+

@@ -1,0 +1,32 @@
+23-4-2008
+---------
+
+download jmonkey
+https://jme.dev.java.net/files/documents/73/72061/jme.zip
+
+download lwjgl
+https://sourceforge.net/project/showfiles.php?group_id=58488
+
+
+
+sera que precisa da lib de fisica ?
+https://jmephysics.dev.java.net/ 
+
+
+
+https://jmephysics.dev.java.net/files/documents/4675/77078/jme-physics-2.1.zip
+
+
+
+ analisar a maturidade do projeto :
+ http://jcrpg.blogspot.com/2007/10/flowing-to-release.html
+ rpg engine usando o jme
+
+ 
+ link sobre mocap e arquivos bhv gratuitos
+ http://feeblemind.tuxfamily.org/dotclear/index.php/2007/08/17/94-around-600-mocapad-data-sets-on-mocapdatacom
+ 
+ mais animacoes gratuitas
+ http://gl.ict.usc.edu/animWeb/humanoid/
+ 
+ 

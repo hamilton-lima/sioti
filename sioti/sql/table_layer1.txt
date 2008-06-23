@@ -1,0 +1,11 @@
+
+CREATE TABLE LAYER1 (
+  id int(10) NOT NULL auto_increment,
+  x int(10)  NOT NULL,
+  y int(10)  NOT NULL,
+  data varchar(4800) NOT NULL,
+  PRIMARY KEY  (id)
+);
+
+CREATE INDEX LAYER1_XY on layer1 (x,y);
+

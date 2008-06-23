@@ -1,0 +1,40 @@
+terrain manager plan
+--------------------
+
+como criar um AbstractHeightMap
+
+	    if (null != heightData) {
+            unloadHeightMap();
+        }
+
+        // initialize the height data attributes
+        heightData = new int[size * size];	
+
+converter o mapa para inteiros
+	- assumir 128 como nivel do mar
+	- criar dados quadrados de regioes, baseado na analise dos dados de cidades existentes
+
+	- criar dados de rotas maritmas ? melhor criar depois...
+	- criar um mapa separado para o relevo para determinar agua ?
+	nao precisa, o que for abaixo de 128 vai ter agua na altura de 128.
+	
+	- usar dados do mapa grande para armazenar as alturas
+	- documentar e criar a estrutura de arquivos com blocos quadrados.
+	- armazenar os dados no formato hexadecimal, ou seja cara ponto 2chars
+	- fazer transicao suave para a praia ? sim basta voltar uns 10 pontos e 
+		gradualmente subir a altura ateh 128.
+	- o interior da terra manter em 138, subindo 10 apos o momento de contato da agua com 
+	a terra.
+	
+	- identificar como determinar textura dependendo da altura do trecho
+
+-----------------------       
+
+- carregar o mapa da posicao atual
+	- baseado na posicao atual, ler o arquivo com os dados da posicao
+	- criar um AbstractHeightMap baseado nos dados
+	
+- ao se mover no mapa definir se esta chegando perto do limite do mapa
+	- se estiver carregar os proximo mapa necessario
+	
+	
