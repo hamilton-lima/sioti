@@ -1,47 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="src-batch"/>
-	<classpathentry kind="src" path="src-test"/>
-	<classpathentry kind="src" path="src-jme-samples"/>
-	<classpathentry kind="src" path="src-jme"/>
-	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.5-bin.jar"/>
-	<classpathentry kind="lib" path="lib/commons-httpclient-3.1.jar"/>
-	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
-	<classpathentry kind="lib" path="lib/commons-codec-1.3.jar"/>
-	<classpathentry kind="lib" path="lib/json-lib-2.1-jdk13.jar"/>
-	<classpathentry kind="lib" path="lib/nekohtml.jar"/>
-	<classpathentry kind="lib" path="lib/commons-lang.jar"/>
-	<classpathentry kind="lib" path="lib/ezmorph-1.0.3.jar"/>
-	<classpathentry kind="lib" path="lib/commons-collections.jar"/>
-	<classpathentry kind="lib" path="lib/commons-beanutils.jar"/>
-	<classpathentry kind="lib" path="libjme/lwjgl/jinput.jar"/>
-	<classpathentry kind="lib" path="libjme/lwjgl/lwjgl_test.jar"/>
-	<classpathentry kind="lib" path="libjme/lwjgl/lwjgl_util_applet.jar"/>
-	<classpathentry kind="lib" path="libjme/lwjgl/lwjgl_util.jar"/>
-	<classpathentry kind="lib" path="libjme/lwjgl/lwjgl.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="sioti.com/libjme/lwjgl/win32"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="libjme/jme-audio.jar"/>
-	<classpathentry kind="lib" path="libjme/jme-awt.jar"/>
-	<classpathentry kind="lib" path="libjme/jme-collada.jar"/>
-	<classpathentry kind="lib" path="libjme/jme-editors.jar"/>
-	<classpathentry kind="lib" path="libjme/jme-effects.jar"/>
-	<classpathentry kind="lib" path="libjme/jme-font.jar"/>
-	<classpathentry kind="lib" path="libjme/jme-gamestates.jar"/>
-	<classpathentry kind="lib" path="libjme/jme-model.jar"/>
-	<classpathentry kind="lib" path="libjme/jme-scene.jar"/>
-	<classpathentry kind="lib" path="libjme/jme-terrain.jar"/>
-	<classpathentry kind="lib" path="libjme/jme-xml.jar"/>
-	<classpathentry kind="lib" path="libjme/jme.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="sioti.com/libjme"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3.8.1"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFX"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/Pack200Task.jar"/>
+	<classpathentry kind="lib" path="lib/pulpcore-applet-debug-0.11.jar"/>
+	<classpathentry kind="lib" path="lib/pulpcore-applet-release-0.11.jar"/>
+	<classpathentry kind="lib" path="lib/pulpcore-assettools-0.11.jar"/>
+	<classpathentry kind="lib" path="lib/pulpcore-player-0.11.jar"/>
+	<classpathentry kind="lib" path="lib/retroweaver-all.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

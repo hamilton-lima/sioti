@@ -1,0 +1,20 @@
+The idea is to build each part of the char in separate images so we can overlay the images and build the char.
+
+For example, the almost naked char will have 4 images, looking to the left, looking to the right, to the top and looking down. Each of this images will not have legs or arms. both will be in a separate file, so can animate the arms and legs when walking.
+
+Weapons could have an image to the atack position, and for the standby position, using this aproach we can change weapons, and armor with having to redraw the char.
+
+Then To implement this one, I see 2 options :
+- all the images have the same size, and the itens stay in different positions. and we allways draw the set of images of the char one over the another ion the same x,y
+
+- each item has a position where will be draw, and what image will be using.
+
+After making some tests with an small image, I realized that using smaller images, with transparency, would reduce the sioze of the images enough to keep the position information and still stay smaller, using less bandwidth.
+
+In other side there is the target of having as less as possible procesing at the client side, to make the game as smooth as possible.
+
+So based on this I decided to move in the direction of having all the images with the same size, overlapping to use, in order to save client side processing.
+
+for now this is the decision, even considering that simple animations of a sword attack for example will use 4 or 5 images, that could be done with 1 and set a serie of rotations/shift of position, for the sake of less processing at the client side, we will use images of teh same size.
+
+at least for now =)
