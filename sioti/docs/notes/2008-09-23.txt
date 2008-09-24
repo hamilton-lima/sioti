@@ -1,0 +1,11 @@
+de volta ao portugues ...
+- primeiro personagem base desenhado
+- recolocada estrutura do pulpcore
+- commit de volta para o svn do google code
+
+proximos passos :
+- traduzir documentacao do google code
+- fazer o personagem se mover num fundo qualquer
+- carregar o mapa vindo do server e permitir ao personagem andar pelo mapa
+- testar o mapa passando pelos polos :)
+- javascript no cliente
