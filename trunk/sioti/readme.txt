@@ -1,1 +1,3 @@
-run this class : com.sioti.client.Client
+- to add something to the final package, save in the build/temp/zip folder
+- the result of the build goes to the build root folder
+- to build run the build.xml
