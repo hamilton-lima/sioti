@@ -5,7 +5,7 @@ proximos passos
 - carregar o mapa vindo do server e permitir ao personagem andar pelo mapa
 - testar o mapa passando pelos polos :)
 - javascript no cliente
-
+- usar javascript para animar personagem
 - trazer documentacao do sioti/moodle para o site ?
 
 
