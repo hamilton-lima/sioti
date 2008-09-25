@@ -4,8 +4,10 @@ de volta ao portugues ...
 - commit de volta para o svn do google code
 
 proximos passos :
-- traduzir documentacao do google code
+- traduzir documentacao do google code (http://code.google.com/p/sioti/)
 - fazer o personagem se mover num fundo qualquer
 - carregar o mapa vindo do server e permitir ao personagem andar pelo mapa
 - testar o mapa passando pelos polos :)
 - javascript no cliente
+
+- trazer documentacao do sioti/moodle para o site ?

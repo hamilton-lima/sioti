@@ -1,0 +1,28 @@
+ok - traduzir documentacao do google code (http://code.google.com/p/sioti/)
+ok - fazer o personagem se mover num fundo qualquer
+
+proximos passos
+- carregar o mapa vindo do server e permitir ao personagem andar pelo mapa
+- testar o mapa passando pelos polos :)
+- javascript no cliente
+
+- trazer documentacao do sioti/moodle para o site ?
+
+
+documentacao em ingles vindo do google code 
+----------
+This is the main goal of this training game, relying on a 2D RPG game, where the user will build an virtual hero, a series of small pieces of knowledge will be inserted in the flow of activities of the game, allowing the end user to take ownership of the knowledge need for the corporate roles, together with knowledge need for the game roles.
+
+Applying the concept that : everyone want to learn, but just some want to be teach, we expect that by using a fantasy world and a mix of different knowledge, we can set an informal agreement, where the game pretend to don't be educational, and the user pretend to be just playing.
+
+But the truth is that both will know clearly what is being teach and what is being learned, or at least to what kind of knowledge the user was exposed to, by sending reports to the end user of the knowledge exposure, and generating gap analysis reports to the HR teams with the evolution of the percentage of knowledge transfer.
+
+Architecture
+
+based on the concept of keep it simple and small, the following technologies will be used :
+
+
+2D client - pulpcore 
+server side - PHP + mysql
+server requests = HTTP calls
+server response format = JSON data
