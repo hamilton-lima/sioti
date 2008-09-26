@@ -1,5 +1,5 @@
 
-CREATE TABLE LAYER1 (
+CREATE TABLE sioti_layer1 (
   id int(10) NOT NULL auto_increment,
   x int(10)  NOT NULL,
   y int(10)  NOT NULL,
@@ -7,5 +7,5 @@ CREATE TABLE LAYER1 (
   PRIMARY KEY  (id)
 );
 
-CREATE INDEX LAYER1_XY on layer1 (x,y);
+CREATE INDEX sioti_layer1_xy on sioti_layer1 (x,y);
 

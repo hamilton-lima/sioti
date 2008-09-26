@@ -22,7 +22,6 @@ public class LoadingScene extends pulpcore.scene.LoadingScene {
         });
     }
     
-    @Override
     public void load() {
         
         String[] validHosts = {
