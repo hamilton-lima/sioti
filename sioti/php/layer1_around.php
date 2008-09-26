@@ -4,8 +4,8 @@
 	include("config.php");
 
 	// calculate the current chunk
-	$chunk_x = floor( $_POST["x"] / $GLOBALS["chunk_width"] ) * $GLOBALS["chunk_width"];
-	$chunk_y = floor( $_POST["y"] / $GLOBALS["chunk_height"] ) * $GLOBALS["chunk_height"];
+	$chunk_x = floor( $_GET["x"] / $GLOBALS["chunk_width"] ) * $GLOBALS["chunk_width"];
+	$chunk_y = floor( $_GET["y"] / $GLOBALS["chunk_height"] ) * $GLOBALS["chunk_height"];
 
 	// calculate the chunks around
 
@@ -82,7 +82,7 @@
 		$southeast_y = $south_y;
 
 			
-	$sql = "SELECT x,y,data FROM layer1 WHERE (x = $chunk_x AND y = $chunk_y) "
+	$sql = "SELECT x,y,data FROM sioti_layer1 WHERE (x = $chunk_x AND y = $chunk_y) "
 		. " OR (x = $north_x AND y = $north_y) "
 		. " OR (x = $northwest_x AND y = $northwest_y) "
 		. " OR (x = $northeast_x AND y = $northeast_y) "

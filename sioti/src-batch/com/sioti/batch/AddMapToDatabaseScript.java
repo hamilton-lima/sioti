@@ -1,14 +1,16 @@
 package com.sioti.batch;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class AddMapToDatabase {
+public class AddMapToDatabaseScript {
 
 	static final int lines = 60;
 
@@ -26,13 +28,17 @@ public class AddMapToDatabase {
 	public static void main(String[] args) throws IOException, SQLException,
 			InstantiationException, IllegalAccessException {
 		BufferedReader reader = new BufferedReader(new FileReader(
-				"docs/mapa-changedx5.txt"));
+				"docs/map/mapa-changedx5.txt"));
 
-		prepareDatabase();
-
+		StringBuffer buffer = new StringBuffer();
+		StringBuffer sql = new StringBuffer();
+		
+		BufferedWriter writer = null;
 		int x = 0;
 		int y = 0;
-
+		int count = 1;
+		int filecount = 0;
+		
 		String line = reader.readLine();
 		while (line != null) {
 
@@ -66,33 +72,44 @@ public class AddMapToDatabase {
 				}
 				// just the full cells, drop the border of the map (if exists)
 				if (one.length() >= (lines * columns)) {
-					saveToDatabase(x, y, one.toString());
+					if (x > 0) {
+						buffer.append(",");
+					}
+					buffer.append("(" + x + "," + y + ",'" + one.toString()
+							+ "') \n");
 					x = x + columns;
 				}
 			}
+
+			sql.append( "INSERT INTO sioti_layer1(x,y,data) VALUES \n"
+					+ buffer.toString() + "; \n");
+			buffer = new StringBuffer();
+
+			if( count ++ >= 20 ){
+				filecount ++;
+				writer = new BufferedWriter(new FileWriter(
+						"docs/map/mapa-changedx5-sql-" + filecount +".sql"));
+				writer.write(sql.toString());
+				writer.flush();
+				writer.close();
+
+				sql = new StringBuffer();
+				count = 0;
+			}
+
 			y = y + lines;
 			x = 0;
+			System.out.println("x:" + x + " y:" + y);
+
 		}
 
-	}
-
-	private static void prepareDatabase() throws SQLException,
-			InstantiationException, IllegalAccessException {
-		DriverManager.registerDriver( new org.gjt.mm.mysql.Driver());
-		conn = DriverManager.getConnection("jdbc:mysql://localhost/sioti",
-				"root", "wrong password");
-	}
-
-	private static void saveToDatabase(int x, int y, String string)
-			throws SQLException {
-		String sql = "INSERT INTO LAYER1(x,y,data) values(" + x + "," + y
-				+ ",'" + string + "')";
-
-		System.out.println(x + "," + y);
-		Statement state = conn.createStatement();
-		state.executeUpdate(sql);
-		state.close();
-
+		filecount ++;
+		writer = new BufferedWriter(new FileWriter(
+				"docs/map/mapa-changedx5-sql-" + filecount +".sql"));
+		writer.write(sql.toString());
+		writer.flush();
+		writer.close();
+		
 	}
 
 }

@@ -2,8 +2,8 @@
 	include("global.php"); 
 	include("config.php");
 
-	$username = addslashes($_POST["u"]);
-	$password = addslashes($_POST["p"]);
+	$username = addslashes($_GET["u"]);
+	$password = addslashes($_GET["p"]);
 
 	$sql = "SELECT id, username FROM mdl_user ".
 			"WHERE username = '$username' ".

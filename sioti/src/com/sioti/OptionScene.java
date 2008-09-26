@@ -11,7 +11,6 @@ public class OptionScene extends Scene2D {
     Button backButton;
     Button errorButton;
     
-    @Override
     public void load() {
         toggleButton = Button.createLabeledToggleButton("Some Toggle", 320, 300);
         toggleButton.setAnchor(Sprite.CENTER);
@@ -26,7 +25,6 @@ public class OptionScene extends Scene2D {
         add(backButton);
     }
     
-    @Override 
     public void update(int elapsedTime) {
         if (backButton.isClicked()) {
             // Go back to the previous scene
