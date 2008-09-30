@@ -3,7 +3,7 @@
 
 	<property file="build.properties" />
 
-	<property name="apache.folder" value="C:/xampplite/htdocs/sioti" />
+	<property name="apache.folder" value="C:/xampp/htdocs/sioti" />
 	<property name="php.folder" value="php" />
 
 	<!-- copy php files to the apache folder -->

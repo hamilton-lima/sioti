@@ -2,8 +2,8 @@
 	include("global.php"); 
 	include("config.php");
 
-	$username = addslashes($_GET["u"]);
-	$password = addslashes($_GET["p"]);
+	$username = addslashes($_POST["u"]);
+	$password = addslashes($_POST["p"]);
 
 	$sql = "SELECT id, username FROM mdl_user ".
 			"WHERE username = '$username' ".
@@ -20,7 +20,7 @@
 		$sqlRole = "SELECT shortname FROM mdl_role, mdl_role_assignments ".
 					"WHERE mdl_role_assignments.roleid = mdl_role.id ".
 					"AND mdl_role_assignments.userid = $id ";
-		
+
 		$resultRole = mysql_query($sqlRole, $connection) or die(mysql_error("MSG_ERROR_CONNECTION"));
 		$rowRole = mysql_fetch_array($resultRole);
 
@@ -32,10 +32,10 @@
 		mysql_free_result($resultRole);
 
 		$_SESSION["currentRoles"] = $roles;
-		$message = "MSG_AUTH_OK";
+		$message = session_id();
 
 	} else {
-		$message = "MSG_ERROR_INVALID_LOGIN";
+		$message = "-1";
 	}
 	
 	mysql_free_result($result);

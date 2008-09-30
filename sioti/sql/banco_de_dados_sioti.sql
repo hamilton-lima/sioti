@@ -143,3 +143,13 @@ insert into sioti_tipo_midia(nome) values ('efeito sonoro');
 insert into sioti_tipo_midia(nome) values ('trilha sonora');
 insert into sioti_tipo_midia(nome) values ('item no jogo');
 
+CREATE TABLE sioti_layer1 (
+  id int(10) NOT NULL auto_increment,
+  x int(10)  NOT NULL,
+  y int(10)  NOT NULL,
+  data varchar(4800) NOT NULL,
+  PRIMARY KEY  (id)
+);
+
+CREATE INDEX sioti_layer1_xy on sioti_layer1 (x,y);
+

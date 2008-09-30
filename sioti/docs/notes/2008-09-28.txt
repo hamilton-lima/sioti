@@ -1,0 +1,17 @@
+- tile N criado
+- adicionado recurso em SpriteMap para exibir coordenadas do tile
+- fazer scroll do mapa
+- pegar mais dados do mapa se chegar na borda
+
+
+proximos passos
+- SpriteMap, quando deslocar o viewport considerar as extremidades 0,0 e maxx,maxy
+  para permitir o deslocamento pelos polos
+- testar o mapa passando pelos polos :)
+- reduzir velocidade do scroll da tela
+- javascript no cliente
+- usar javascript para animar personagem
+- trazer documentacao do sioti/moodle para o site ?
+- como andar de costas e continuar virado para a mesma direcao
+- como pular
+- adicionar recurso de zoom

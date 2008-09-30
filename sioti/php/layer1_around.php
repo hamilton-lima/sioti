@@ -4,8 +4,8 @@
 	include("config.php");
 
 	// calculate the current chunk
-	$chunk_x = floor( $_GET["x"] / $GLOBALS["chunk_width"] ) * $GLOBALS["chunk_width"];
-	$chunk_y = floor( $_GET["y"] / $GLOBALS["chunk_height"] ) * $GLOBALS["chunk_height"];
+	$chunk_x = floor( $_POST["x"] / $GLOBALS["chunk_width"] ) * $GLOBALS["chunk_width"];
+	$chunk_y = floor( $_POST["y"] / $GLOBALS["chunk_height"] ) * $GLOBALS["chunk_height"];
 
 	// calculate the chunks around
 
