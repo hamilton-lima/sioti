@@ -1,0 +1,56 @@
+- projetada solucao para problema de scroll alem dos limites
+
+proximos passos
+- SpriteMap, quando deslocar o viewport considerar as extremidades 0,0 e maxx,maxy
+  para permitir o deslocamento pelos polos
+  
+  . quando trazer os dados do mapa, mantes os ultimos 9 chunks do mapa na memoria
+  armazenados em uma matriz de 3x3 para acelerar o acesso futuro
+  . quando desenhar o mapa desenhar varios tiles fora da tela para permitir scroll
+  usando o metodo animateTo() para tornar o scroll mais suave
+  . realizar deslocamentos com informacoes da matriz de dados e nao atraves
+    das coordenadas reais
+    
+  . ao chegar no limite do mapa :
+  	- armazenar as coordenadas reais e coordenadas da matriz de dados atual
+  	- recuperar novo mapa usando coordenadas reais
+  	- calcular a nova coordenada na nova matriz de dados baseado na coordenada
+  	  real armazenada
+  	- mover a imagem o quanto for a diferenca entre a nova coordenada real da matriz
+  	  e a coordenada da matriz armazenada, nao fazer esta troca com animacao, para 
+  	  permitir que o mapa continue realizando scroll
+  	  
+  . para calcular as coordenadas reais (CR), baseadas na coordenada da matriz (CM)
+  	(lembrar que chunks podem ter ranges de CR distintas pela possibilidade de 
+  	caminhar atraves dos limites do mapa)
+  	- para identificar que chunk do mapa esta a coordenada
+  		coluna = (inteiro)(CM.x / largura do chunk )	  
+  		linha = (inteiro)(CM.y / quantidade de linhas da matriz por chunk )	  
+  	- identificado o chunk, calcular baseado no x,y CR do chunk qual a CR da CM
+  	informada
+  
+- testar o mapa passando pelos polos :)
+- reduzir velocidade do scroll da tela
+- javascript no cliente
+- usar javascript para animar personagem
+- trazer documentacao do sioti/moodle para o site ?
+- como andar de costas e continuar virado para a mesma direcao
+- como pular
+- adicionar recurso de zoom
+
+- adicionar :
+	. save_user_prefs?data=campo,valor;campo,valor
+	. get_user_prefs -> que retorna lista de valores armazenados para o usuario
+	
+- adicionar tabela de scripts(id, name, internal, code)
+	tabela de execucao de scripts
+		(id, id_script, user, id_event)
+		. quando usuario == null o script diz respeito a todos usuarios
+		
+	tabela de eventos
+		(id,name=login,onthis,onthat)
+		
+(*) todos os comportamentos de NPC devem ser realizados no server
+    sem usar client scripts, visando evitar ataques de proxy, que poderiam
+    por exemplo desprezar movimentos de ataque de NPCs
+    		 		
