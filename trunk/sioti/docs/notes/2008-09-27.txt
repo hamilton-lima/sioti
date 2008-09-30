@@ -1,0 +1,17 @@
+- load dos dados em banco de dados local 
+- criacao de tabelas para autenticacao local (Tabelas do moodle)
+- criado sistema de log integrado com pulpcore CoreSystem.print()
+- criado servico para login
+- criada integracao de sessao no server atraves de chamada via POST
+- usada classe Upload do pulpcore com integracao a sessao do PHP
+- mostrando mapa vindo do server
+
+proximos passos
+- fazer scroll do mapa
+- pegar mais dados do mapa se chegar na borda
+- fazer o tile N
+- testar o mapa passando pelos polos :)
+- javascript no cliente
+- usar javascript para animar personagem
+- trazer documentacao do sioti/moodle para o site ?
+
